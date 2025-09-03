@@ -119,7 +119,7 @@ User masuk lewat NGINX → Recommendation Service → ambil data dari Feature St
 
 ---
 
-## Section 2 : Setup
+## Setup
 
 Docker dan Docker compose 
 
