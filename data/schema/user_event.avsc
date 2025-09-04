@@ -1,0 +1,10 @@
+{
+  "type": "record",
+  "namespace": "com.reco.platform",
+  "name": "UserEvent",
+  "fields":}},
+    {"name": "user_id", "type": "string"},
+    {"name": "item_id", "type": "string"},
+    {"name": "session_id", "type": ["null", "string"], "default": null}
+  ]
+}
